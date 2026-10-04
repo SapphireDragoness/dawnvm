@@ -24,6 +24,7 @@ target_sources(dvm_core
   PRIVATE       
     src/core/types.c
     src/core/jar.c
+    src/core/log.c
     src/core/classfile.c
     src/core/class.c
     src/core/heap.c
